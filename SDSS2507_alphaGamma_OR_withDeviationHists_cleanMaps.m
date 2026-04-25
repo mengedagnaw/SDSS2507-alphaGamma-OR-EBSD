@@ -1,6 +1,6 @@
-function SDSS2507_paper_alphaGamma_OR_withDeviationHists_cleanMaps
+function SDSS2507+3% Ni_alphaGamma_OR_withDeviationHists_cleanMaps
 %% ========================================================================
-%  SDSS2507_paper_alphaGamma_OR_withDeviationHists_cleanMaps.m
+%  SDSS2507_alphaGamma_OR_withDeviationHists_cleanMaps.m
 %
 %  Paper-style MTEX workflow for ferrite-austenite interphase OR.
 %
