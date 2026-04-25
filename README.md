@@ -10,8 +10,6 @@ The workflow evaluates crystallographic orientation relationships between ferrit
 SDSS2507-alphaGamma-OR-EBSD/
 ├── SDSS2507_paper_alphaGamma_OR_withDeviationHists_cleanMaps.m
 ├── README.md
-├── .gitignore
-├── .gitattributes
 ├── data/
 │   └── raw/
 │       ├── 01_AS.ang
